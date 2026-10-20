@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite this repository."
+title: "Code for Reducing Uncertainty: The Role of Street-View and Satellite Imagery in Multimodal Informal Settlement Extraction"
+version: 1.0.0
+type: software
+license: MIT
+
+authors:
+  - given-names: Pengyu
+    family-names: Wang
+    affiliation: University College Dublin
+
+abstract: >
+  Code accompanying the study "Reducing Uncertainty: The Role of
+  Street-View and Satellite Imagery in Multimodal Informal Settlement
+  Extraction". The repository contains code for data preprocessing,
+  multimodal model training and evaluation, GSV influence analysis,
+  leave-one-out analysis, Grad-CAM and semantic interpretation, and
+  full-area prediction in Nairobi, Kenya.
+
+keywords:
+  - informal settlements
+  - multimodal data fusion
+  - Google Street View
+  - remote sensing
+  - deep learning
